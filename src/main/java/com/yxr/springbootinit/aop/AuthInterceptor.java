@@ -3,6 +3,7 @@ package com.yxr.springbootinit.aop;
 import com.yxr.springbootinit.annotation.AuthCheck;
 import com.yxr.springbootinit.common.ErrorCode;
 import com.yxr.springbootinit.exception.BusinessException;
+import com.yxr.springbootinit.model.entity.User;
 import com.yxr.springbootinit.model.enums.UserRoleEnum;
 import com.yxr.springbootinit.service.UserService;
 import javax.annotation.Resource;

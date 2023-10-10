@@ -5,6 +5,7 @@ import com.yxr.springbootinit.common.ErrorCode;
 import com.yxr.springbootinit.common.ResultUtils;
 import com.yxr.springbootinit.exception.BusinessException;
 import com.yxr.springbootinit.model.dto.postthumb.PostThumbAddRequest;
+import com.yxr.springbootinit.model.entity.User;
 import com.yxr.springbootinit.service.PostThumbService;
 import com.yxr.springbootinit.service.UserService;
 import javax.annotation.Resource;

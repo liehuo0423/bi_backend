@@ -2,6 +2,7 @@ package com.yxr.springbootinit.service;
 
 import com.yxr.springbootinit.model.entity.PostThumb;
 import com.baomidou.mybatisplus.extension.service.IService;
+import com.yxr.springbootinit.model.entity.User;
 
 /**
  * 帖子点赞服务

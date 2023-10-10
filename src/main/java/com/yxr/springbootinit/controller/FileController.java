@@ -8,6 +8,7 @@ import com.yxr.springbootinit.constant.FileConstant;
 import com.yxr.springbootinit.exception.BusinessException;
 import com.yxr.springbootinit.manager.CosManager;
 import com.yxr.springbootinit.model.dto.file.UploadFileRequest;
+import com.yxr.springbootinit.model.entity.User;
 import com.yxr.springbootinit.model.enums.FileUploadBizEnum;
 import com.yxr.springbootinit.service.UserService;
 import java.io.File;

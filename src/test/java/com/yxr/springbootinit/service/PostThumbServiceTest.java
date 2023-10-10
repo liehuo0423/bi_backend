@@ -1,6 +1,8 @@
 package com.yxr.springbootinit.service;
 
 import javax.annotation.Resource;
+
+import com.yxr.springbootinit.model.entity.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;

@@ -7,6 +7,7 @@ import com.yxr.springbootinit.exception.BusinessException;
 import com.yxr.springbootinit.mapper.PostThumbMapper;
 import com.yxr.springbootinit.model.entity.Post;
 import com.yxr.springbootinit.model.entity.PostThumb;
+import com.yxr.springbootinit.model.entity.User;
 import com.yxr.springbootinit.service.PostService;
 import com.yxr.springbootinit.service.PostThumbService;
 import javax.annotation.Resource;

@@ -16,6 +16,7 @@ import com.yxr.springbootinit.model.dto.post.PostQueryRequest;
 import com.yxr.springbootinit.model.entity.Post;
 import com.yxr.springbootinit.model.entity.PostFavour;
 import com.yxr.springbootinit.model.entity.PostThumb;
+import com.yxr.springbootinit.model.entity.User;
 import com.yxr.springbootinit.model.vo.PostVO;
 import com.yxr.springbootinit.model.vo.UserVO;
 import com.yxr.springbootinit.service.PostService;
